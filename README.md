@@ -1,4 +1,4 @@
-# Azar Visual Ultimate 🚀
+# Azar Visual Ultimate 🖼️
 
 Une suite complète d'effets visuels et d'améliorations d'interface pour Azar Live. Personnalisez votre expérience de chat avec des effets de particules, des thèmes modernes et des outils d'automatisation.
 
