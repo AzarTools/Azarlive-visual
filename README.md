@@ -12,10 +12,44 @@ Une suite complète d'effets visuels et d'améliorations d'interface pour Azar L
 
 ## 🚀 Installation
 
-1. Installez une extension de gestion de scripts (type **Tampermonkey** ou **Violentmonkey**) sur votre navigateur.
-2. Cliquez sur le bouton "Créer un nouveau script".
-3. Copiez et collez le contenu du fichier `azar-visual.user.js` présent dans ce repository.
-4. Enregistrez et rendez-vous sur [azarlive.com](https://azarlive.com).
+### Méthode 1 : Avec Tampermonkey (Recommandé)
+
+1. **Installer Tampermonkey**
+   - [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+   - [Firefox](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/)
+   - [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+
+2. **Créer le script**
+   - Cliquez sur l'icône Tampermonkey → "Créer un nouveau script"
+   - Supprimez tout le contenu par défaut
+   - Copiez-collez le contenu de `main.js`
+   - Sauvegardez (Ctrl+S ou Cmd+S)
+
+3. **Activer le script**
+   - Ouvre la page des extensions Chrome en copiant cette adresse dans ta barre de navigation :
+```
+     chrome://extensions/?id=dhdgffkkebhmkfjojejmpbldmpobfkfo
+```
+   - Dans les paramètres de Tampermonkey, vérifie que :
+     - ✅ La case « Autoriser les scripts utilisateurs » est cochée
+     - ✅ Le « Mode développeur » est activé (interrupteur en haut à droite de la page)
+   - Le script s'active automatiquement après installation
+     
+5. **Utiliser**
+   - Rendez-vous sur [azarlive.com](https://azarlive.com/)
+   - Le panneau apparaît automatiquement en haut à droite
+   - Lancez un appel → L'IP s'affiche automatiquement
+
+### Méthode 2 : Console du navigateur
+
+1. Ouvrez [azarlive.com](https://azarlive.com/)
+2. Ouvrez la console (**F12** → **Console**)
+3. Copiez le contenu de `main.js`
+4. Collez dans la console
+5. **⚠️ Si erreur au collage :** Tapez `allow pasting` directement dans la console, puis recollez le script
+6. Appuyez sur **Entrée**
+
+> ⚠️ **Note :** Avec cette méthode, le script se désactive au rechargement de la page. Utilisez Tampermonkey pour une installation permanente.
 
 ## 🛠️ Configuration
 
