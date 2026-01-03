@@ -1,4 +1,4 @@
-# Azar Visual Suite Ultimate 🚀
+# Azar Visual Ultimate 🚀
 
 Une suite complète d'effets visuels et d'améliorations d'interface pour Azar Live. Personnalisez votre expérience de chat avec des effets de particules, des thèmes modernes et des outils d'automatisation.
 
@@ -8,7 +8,7 @@ Une suite complète d'effets visuels et d'améliorations d'interface pour Azar L
 - **Modes Dynamiques :** Mode Rainbow, Disco et Animations de dégradés.
 - **Personnalisation Background :** Flou réglable, couleurs personnalisées et effets de superposition.
 - **Interface Moderne :** Menu draggable, thème sombre/clair, et réglage de l'opacité.
-- **Outils Pratiques :** Bouton "Skip" personnalisé et Auto-click pour lancer les conversations rapidement.
+- **Outils Pratiques :** Bouton "Skip" personnalisable pour relancer les conversations rapidement.
 
 ## 🚀 Installation
 
@@ -38,7 +38,6 @@ Une suite complète d'effets visuels et d'améliorations d'interface pour Azar L
 5. **Utiliser**
    - Rendez-vous sur [azarlive.com](https://azarlive.com/)
    - Le panneau apparaît automatiquement en haut à droite
-   - Lancez un appel → L'IP s'affiche automatiquement
 
 ### Méthode 2 : Console du navigateur
 
